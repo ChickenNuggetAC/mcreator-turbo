@@ -1,0 +1,12 @@
+build/
+_setup/
+payload/
+tools/
+*.jar
+*.zip
+*.exe
+*.sed
+run-selftest.ps1
+selftest/
+Thumbs.db
+.DS_Store
